@@ -1,0 +1,9 @@
+[submodule "Automated-Script-Checker"]
+	path = Automated-Script-Checker
+	url = https://github.com/Ridwan-AI/Automated-Script-Checker.git
+[submodule "hyperledger_scriptchecker"]
+	path = hyperledger_scriptchecker
+	url = https://github.com/Ridwan-AI/hyperledger_scriptchecker.git
+[submodule "Arduino-NodeMCU-Script-Checker"]
+	path = Arduino-NodeMCU-Script-Checker
+	url = https://github.com/Ridwan-AI/Arduino-NodeMCU-Script-Checker.git
